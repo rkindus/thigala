@@ -1,2 +1,0 @@
-testing for reset 
-we are checing reset command
